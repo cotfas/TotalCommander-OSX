@@ -31,11 +31,6 @@ Requirements:
 ![alt text](https://github.com/cotfas/TotalCommander-OSX/blob/main/xcode-product-app.png?raw=true)
 
     Starting it from /Application or Launchpad:
+    
+![alt text](https://github.com/cotfas/TotalCommander-OSX/blob/main/totalcommander-result-on-mac.png?raw=true)
 
-![alt text](https://github.com/cotfas/TotalCommander-OSX/blob/main/total-commander-starter-app.png?raw=true)
-
-    Final result:
-
-![alt text](https://github.com/cotfas/TotalCommander-OSX/blob/main/totalcommander-result-hidden-bar.png?raw=true)
-
-![alt text](https://github.com/cotfas/TotalCommander-OSX/blob/main/totalcommander-result.png?raw=true)
