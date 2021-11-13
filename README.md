@@ -10,7 +10,7 @@ Requirements:
     
 1 Install Crossover and setup a Windows-XP bottle named: default (important to be called default in order to start the app directly from terminal/starter-app)
 
-![alt text](https://github.com/cotfas/TotalCommander-OSX/blob/main/crossover-bottle.png?raw=true)
+![alt text](https://github.com/cotfas/TotalCommander-OSX/blob/main/Screens/crossover-bottle.png?raw=true)
 
 2 Install your copy of TotalCommander zip from https://www.ghisler.com, eg: of location where TOTALCMD.exe should be found:
 
@@ -28,11 +28,11 @@ Requirements:
 
 4 After building the XCODE Mac project, you can copy/install the product .app to your /Application/ folder
 
-![alt text](https://github.com/cotfas/TotalCommander-OSX/blob/main/xcode-product-app.png?raw=true)
+![alt text](https://github.com/cotfas/TotalCommander-OSX/blob/main/Screens/xcode-product-app.png?raw=true)
 
     Starting it from /Application or Launchpad:
     
-![alt text](https://github.com/cotfas/TotalCommander-OSX/blob/main/totalcommander-result-on-mac.png?raw=true)
+![alt text](https://github.com/cotfas/TotalCommander-OSX/blob/main/Screens/totalcommander-result-on-mac.png?raw=true)
 
 
 
