@@ -16,7 +16,7 @@ Requirements:
 
     /Users/work/Dropbox/Apps/TotalCommanderWINE/TOTALCMD.exe
     
-3 Copy totalcmd.sh to your profile path, and make sure the exe path pointing to TotalCommander app is correct:
+3 Copy totalcmd.sh to your profile path, and make sure the path pointing to TotalCommander EXE is correct:
 
     /Applications/.CrossOver.app/Contents/SharedSupport/CrossOver/bin/wine /Users/work/Dropbox/Apps/TotalCommanderWINE/TOTALCMD.exe &
 
@@ -34,3 +34,18 @@ Requirements:
     
 ![alt text](https://github.com/cotfas/TotalCommander-OSX/blob/main/totalcommander-result-on-mac.png?raw=true)
 
+
+
+    # License
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
