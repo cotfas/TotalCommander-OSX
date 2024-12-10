@@ -35,6 +35,8 @@ Requirements:
 ![alt text](https://github.com/cotfas/TotalCommander-OSX/blob/main/Screens/totalcommander-result-on-mac.png?raw=true)
 
 
+— This project was created in 2020.
+
 
     # License
 
